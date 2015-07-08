@@ -1,2 +1,2 @@
 # MolPy
-MolPy: Molecular Properties Prediction by Python
+> MolPy: Molecular Properties Prediction by Python
