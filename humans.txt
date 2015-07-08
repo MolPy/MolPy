@@ -1,0 +1,5 @@
+======================================================
+|| MolPy: Molecular Properties Prediction by Python ||
+======================================================
+Author    : Prabhat Kumar [http://prabhatkumar.org/]
+Copyright : © 2015, MolPy & Prabhat Kumar.
